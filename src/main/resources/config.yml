@@ -1,0 +1,6 @@
+# RainDetect plugin by ItsKev
+# Interval in seconds
+# CommandToExecute without the / in the beginning
+
+Interval: 10
+CommandToExecute: 'kill'
